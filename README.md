@@ -1,7 +1,7 @@
-##### • 👋 Hi, I'm Deep Momaya
-##### • 🌱 I’m currently learning Software Engineering
-##### • 💡 I'm passionate about creating technology to elevate people
-##### • 📫 How to reach me: https://www.linkedin.com/in/deepmomaya/
+* 👋 Hi, I'm Deep Momaya  
+* 🌱 I’m currently learning Software Engineering  
+* 💡 I'm passionate about creating technology to elevate people  
+* 📫 How to reach me: https://www.linkedin.com/in/deepmomaya/
 
 
 <!--
