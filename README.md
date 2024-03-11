@@ -1,5 +1,5 @@
 * 👋 Hi, I'm Deep Momaya  
-* 🌱 I’m everyday learning to code
+* 🌱 I’m learning to code
 * 💡 I'm passionate about creating technology to elevate people  
 * 📫 How to reach me: https://www.linkedin.com/in/deepmomaya/
 
