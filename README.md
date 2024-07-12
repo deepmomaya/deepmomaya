@@ -1,9 +1,4 @@
-* 👋 Hello there 
-* 🌱 I’m learning to code
-* 💡 I'm passionate about creating technology to elevate people  
-* 📫 How to reach me: https://www.linkedin.com/in/deepmomaya/
-
-
-<!--
-**deepmomaya/deepmomaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+* 👋 Hello there, I'm Deep Momaya
+* 🌱 Enthusiastic about developing full stack applications
+* 💡 Passionate about exploring and learning new technologies  
+* 📫 Connect with me: https://www.linkedin.com/in/deepmomaya/
